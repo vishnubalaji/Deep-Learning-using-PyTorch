@@ -11,5 +11,4 @@ Resources for AI :
 6. https://cs231n.github.io/
 7. https://blog.exxactcorp.com/
 8. https://www.pyimagesearch.com/
-9. check out your Github stars
-10. https://openlearning.mit.edu/
+9. https://openlearning.mit.edu/
