@@ -12,3 +12,4 @@ Resources for AI :
 7. https://blog.exxactcorp.com/
 8. https://www.pyimagesearch.com/
 9. https://openlearning.mit.edu/
+10. https://deeplizard.com/
