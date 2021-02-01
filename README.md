@@ -13,3 +13,4 @@ Resources for AI :
 8. https://www.pyimagesearch.com/
 9. https://openlearning.mit.edu/
 10. https://deeplizard.com/
+11. https://fullstackdeeplearning.com/
