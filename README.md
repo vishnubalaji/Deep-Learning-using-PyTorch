@@ -28,3 +28,5 @@ Resources for AI :
 12. https://pytorch.org/tutorials     --> One of the best places to learn PyTorch.
 
 **13. https://paperswithcode.com/  --> One stop for Artificial Intelligence research papers with code.**
+
+14. https://www.jeremyjordan.me/
