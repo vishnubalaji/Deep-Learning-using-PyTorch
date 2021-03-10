@@ -30,3 +30,5 @@ Resources for AI :
 **13. https://paperswithcode.com/  --> One stop for Artificial Intelligence research papers with code.**
 
 14. https://www.jeremyjordan.me/
+
+15. https://seeing-theory.brown.edu/
